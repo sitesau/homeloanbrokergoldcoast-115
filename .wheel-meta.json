@@ -1,0 +1,22 @@
+{
+  "wheel_id": 857,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergoldcoast-115",
+  "project": "mortgage-broker-gold-coast-cost-guide-0ea2a10e6602bfa056e4ddf45",
+  "parent_t1_ref": "homeloanbrokergoldcoast-156",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokergoldcoast.com.au",
+  "primary_kw": "mortgage broker gold coast cost guide",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-gold-coast-cost-guide-0ea2a10e6602bfa056e4ddf45/",
+  "tier": "T2",
+  "writeback_nonce": "ba68de8804aa4f37",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/homeloanbrokergoldcoast-156/",
+      "anchor": "more on mortgage broker gold coast first home",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
